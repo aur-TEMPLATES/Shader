@@ -12,12 +12,12 @@ pnpm install
 pnpm run dev
 ```
 
-##Build
+## Build
 ```
 pnpm run build
 ```
 
-##Preview
+## Preview
 ```
 pnpm run preview
 ```
